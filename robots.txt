@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /404.html
-Sitemap: https://cecilapp.github.io/the-butler/sitemap.xml
+Sitemap: https://epic-brown-27eeef.netlify.app/sitemap.xml
